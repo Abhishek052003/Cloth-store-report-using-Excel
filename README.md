@@ -34,5 +34,8 @@ The dashboard includes:
 ## 🔍 Use Case
 Ideal for any **retail or eCommerce business** looking to track performance using Excel-based solutions without needing complex BI tools.
 
+## 🔗 Explore More Projects
+👉 Check out my complete portfolio: (https://portfolio-three-eta-35.vercel.app)
+
 
 > Made with ❤️ by Abhishek Ramakant Dhokare
